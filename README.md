@@ -35,4 +35,4 @@ Let's check back to the PC that's running Ettercap to see what Ettercap has pick
 
 As you can see, Ettercap has picked up the login credentials used to access the employee portal on an employee PC. 
 
-* I do not condone the use of any tools shown in this lab for malicous use *
+* I do not condone the use of any tools shown in this lab for malicious use *
